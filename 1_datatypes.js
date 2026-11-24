@@ -1,3 +1,6 @@
+// Day 1 - JavaScript Data Types
+
+
 //! datatypes two types 
 
 //? 1 primitive data types
